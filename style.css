@@ -1,6 +1,7 @@
 body, html {
     height: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
 }
 
 footer {
@@ -18,6 +19,7 @@ footer {
     height: 100%;
     padding: 150px;
     font-size: 60px;
+    margin: 0;
 }
 
 p {
@@ -42,6 +44,8 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    margin: -25px !important;
 }
 
 .bg-1 {
