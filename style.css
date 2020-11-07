@@ -1,0 +1,57 @@
+body, html {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    background-color: rgb(14, 14, 14);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content-header {
+    padding: 30px;
+}
+
+.primary-header {
+    height: 100%;
+    padding: 150px;
+    font-size: 60px;
+}
+
+p {
+    padding: 30px;
+}
+
+.content {
+    width: 100%;
+    height: 40%;
+
+    background-color: rgb(14, 14, 14);
+    color: white;
+    
+    text-align: center;
+    margin: auto;
+}
+
+.parallax {
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-1 {
+    background-image: url("Background1.png");
+}
+
+.bg-2 {
+    background-image: url("Background2.png");
+}
+
+.bg-3 {
+    background-image: url("Background3.png");
+}
