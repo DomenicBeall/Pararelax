@@ -16,14 +16,24 @@ footer {
 }
 
 .primary-header {
-    height: 100%;
     padding: 150px;
     font-size: 60px;
     margin: 0;
 }
 
+a:hover {
+    color: orangered;
+}
+
+a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
 p {
-    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .content {
